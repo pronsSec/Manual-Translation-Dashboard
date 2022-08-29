@@ -17,8 +17,10 @@ This model avoids the awkwardness of Google Translate, and has the best Romanian
 
 --- 
 
-This makes use of the very powerful Hugging Face Accelerated Inference API. You will only need to update your own API key after paying for the 9/month tier. Update your key in the first cell.     
+This makes use of the very powerful Hugging Face Accelerated Inference API. You will only need to update your own API key after paying for the 9/month tier. Update your key in the first cell.   
 
+To sign up:
+https://huggingface.co/inference-api
 ---  
 
 --- 
