@@ -5,7 +5,7 @@ by Been
 
 --- 
 
-This dashboard conducts small paragraph translations for multiple languages. More will be added as time goes on. Currently the focus will be English to and from Russian, Balkan, other Eastern European languages.    
+This dashboard conducts small paragraph translations for multiple languages. More will be added as time goes on. Currently the focus will be English to and from Russian, Balkan, and other Eastern European languages.    
 
 This model avoids the awkwardness of Google Translate, and has the best Romanian translation that I have found.   
 
