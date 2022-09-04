@@ -22,3 +22,18 @@ https://huggingface.co/inference-api
 
 
 If it says "----- is currently loading', 'estimated_time': --" just wait the amount of time and try again. 
+
+------
+
+To use this notebook just go to the Manual_Translation_Dashboard.ipynb file in this repo. Then you need to click the "Open in Colab" button if you would like to use Google Colab. If you have opsec concerns you can take the ipynb code and run it locally using Jupyter as previously stated. 
+
+--------
+
+# The people of Ukraine need your help. If you found some use out of this tool please consider a donation to:
+https://saintjavelin.com
+
+https://ukraineaidops.org/donate/
+
+https://osintukraine.com
+
+Or the Georgian Legion Directly
