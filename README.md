@@ -35,8 +35,3 @@ To use this notebook just go to the Manual_Translation_Dashboard.ipynb file in t
 # The people of Ukraine need your help. If you found some use out of this tool please consider a donation to:
 https://saintjavelin.com
 
-https://ukraineaidops.org/donate/
-
-https://osintukraine.com
-
-Or the Georgian Legion Directly
